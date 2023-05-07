@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask#readme",
   "dependencies": {
-    "azure-pipelines-task-lib": "^2.9.3"
+    "azure-pipelines-task-lib": "^4.3.1"
   },
   "devDependencies": {
     "@types/node": "^13.1.6",
